@@ -1,5 +1,24 @@
 #root {
-  width: 1280px;
   max-width: 1280px;
   margin: 0 auto;
+}
+
+.cm-editor.cm-focused {
+  outline: none;
+}
+
+.cm-editor .cm-gutters {
+  display: none;
+}
+
+.cm-editor .cm-content {
+  padding: 0
+}
+
+.cm-editor .cm-line {
+  padding: 0;
+}
+
+.cm-editor .cm-scroller {
+  font: '14px/20px source-code-pro, Menlo, Monaco, Consolas, monospace';
 }

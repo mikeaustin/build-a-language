@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@uiw/codemirror-themes": "^4.21.9",
+    "@uiw/react-codemirror": "^4.21.9",
     "bare": "file:../shared-components/bare",
     "lorem-ipsum": "^2.0.8",
     "react": "^18.2.0",
