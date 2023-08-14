@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+.cm-editor {
+  background: transparent;
+}
+
 .cm-editor.cm-focused {
   outline: none;
 }

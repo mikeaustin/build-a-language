@@ -5,8 +5,7 @@ You might think that you’d need to be a ninja-level coder, with a bunch of too
 
 This tutorial will guide you through the steps of creating a simple programming language, interactively. Even if you're not a developer, you can follow along and try the examples.
 
-In the next section, **Syntax and Grammar**, we’ll talk about the building blocks of creating a language.
-`;
+In the next section, **Syntax and Grammar**, we’ll talk about the building blocks of creating a language.`;
 
 const grammar = `
 {

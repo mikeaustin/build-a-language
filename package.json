@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/language": "^6.8.0",
+    "@codemirror/legacy-modes": "^6.3.3",
     "@uiw/codemirror-themes": "^4.21.9",
     "@uiw/react-codemirror": "^4.21.9",
     "bare": "file:../shared-components/bare",
