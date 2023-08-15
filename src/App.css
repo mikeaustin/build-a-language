@@ -23,6 +23,10 @@
   padding: 0 16px;
 }
 
+.cm-editor .cm-activeLine {
+  background: none;
+}
+
 .cm-editor .cm-scroller {
   font: '14px/20px source-code-pro, Menlo, Monaco, Consolas, monospace';
 }
