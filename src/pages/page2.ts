@@ -15,8 +15,11 @@ const grammar = `
 
 NumericLiteral
   = [0-9]+ {
-    return Number(text());
-  }
+      return {
+        type: 'NumericLiteral',
+        value: Number(text())
+      };
+    }
 `;
 
 export {
